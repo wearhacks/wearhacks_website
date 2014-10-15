@@ -1,4 +1,5 @@
-website
+WearHacks Website
 =======
 
-WearHacks website
+WearHacks website technology stack:
+
