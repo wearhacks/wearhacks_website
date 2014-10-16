@@ -28,5 +28,7 @@ To run all tests using nose and coverage,
 # Authors
 
 Ahmad Shehaaz Saif - <shehaaz@gmail.com>
+
 Ari Ramdial - <ari.ramdial@gmail.com>
+
 Usman Ehtesham Gul - <uehtesham90@gmail.com>
