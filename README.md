@@ -1,6 +1,11 @@
 WearHacks Website
 =======
 
+# Stack
+
+1. [Designmodo WordPress Framework](http://designmodo.com/startup-wordpress/)
+2. [Signup Form](http://www.typeform.com/)
+3. [OAuth Login](https://oauth.io/)
 
 # Dependencies
 To install, run:
